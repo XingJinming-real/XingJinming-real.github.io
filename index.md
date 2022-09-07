@@ -35,13 +35,13 @@ Department of Artificial Intelligence, SZU, China
     <td width="1000" border="0">
       <p>
         A Unified Semi-Supervised Learning Framework Based on Fuzzy 
-          Rough Sets for Open-Set Scenarios
-        
-*   Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios
-*   Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)
-*   Recommend a new data editing technique to correct error information
-      </p>
+          Rough Sets for Open-Set Scenarios<p>
+<ul>        
+   <li>Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios</li>
+   <li>Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)</li>
+   <li>Recommend a new data editing technique to correct error information</li>
     </td>
+</ul>
 </table>
 
 *10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**,
@@ -53,18 +53,18 @@ Department of Artificial Intelligence, SZU, China
     </td>
     <td width="1000" border="0">
       <p>
-       <a href="/PDME.pdf">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a>
-        
-* Suggested a monotonic approximate attribute reduction model named
+       <a href="/PMDE.pdf">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a></p>
+<ul>
+<li>Suggested a monotonic approximate attribute reduction model named
     parameterized maximum distribution entropy (PMDE), which assigns
-    different significance scores to various decisions
-* Propositioned a heuristic attribute selection algorithm by
+    different significance scores to various decisions</li>
+<li>Propositioned a heuristic attribute selection algorithm by
     introducing the idea of three-way decision, leading to a robust
-    reduction of attributes
-* Conducted numerous experiments on UCI's datasets, which demonstrated
+    reduction of attributes</li>
+<li>Conducted numerous experiments on UCI's datasets, which demonstrated
     the effectiveness of the planned method with much fewer attributes
-    over baseline methods
-      </p>
+    over baseline methods</li>
+</ul>
     </td>
 </table>
 
@@ -79,17 +79,16 @@ Department of Artificial Intelligence, SZU, China
     </td>
     <td width="1000" border="0">
       <p>
-       <a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosismate Attribute Reduction</a>
-        
-* Proposed bad-points technique for dataset denoising and high-order
+       <a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosismate Attribute Reduction</a></p>
+ <ul>
+<li>Proposed bad-points technique for dataset denoising and high-order
     strategy is used to extract further comprehensive spatial
-    information
-* Initiated three modal data ORI (original data), PCA (data after
+    information</li>
+<li>Initiated three modal data ORI (original data), PCA (data after
     PCA), and DIS (data after discretization) to prime the tri-training
-    base classifiers, augmenting their representation abilities
-* Designed a robust weighted fuzzy lower approximation classifier to
-    solve the supervised and semi-supervised problems
-      </p>
+    base classifiers, augmenting their representation abilities</li>
+<li>Designed a robust weighted fuzzy lower approximation classifier to
+    solve the supervised and semi-supervised problems</li>
     </td>
 </table>
 
