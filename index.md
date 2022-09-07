@@ -33,11 +33,7 @@ Department of Artificial Intelligence, SZU, China
       <img src="/openSSL.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p>
-        A Unified Semi-Supervised Learning Framework Based on Fuzzy 
-          Rough Sets for Open-Set Scenarios
-      <p>       
-        
+      <p>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</p>       
     </td>
 </table>
 
@@ -46,9 +42,7 @@ Department of Artificial Intelligence, SZU, China
       <img src="/PMDE.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p>
-       <a href="/PMDE.pdf">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a>
-      </p>
+      <p><a href="/PMDE.pdf">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a></p>
       <ul>
         <li>Suggested a monotonic approximate attribute reduction model named
             parameterized maximum distribution entropy (PMDE), which assigns
@@ -71,9 +65,7 @@ Department of Artificial Intelligence, SZU, China
       <img src="/WFRS.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p>
-       <a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosismate Attribute Reduction</a>
-      </p>
+      <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosismate Attribute Reduction</a></p>
         <ul>
             <li>Proposed bad-points technique for dataset denoising and high-order
                 strategy is used to extract further comprehensive spatial
