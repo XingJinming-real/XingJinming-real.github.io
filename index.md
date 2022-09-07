@@ -8,6 +8,14 @@
       <p><b>Computer Science and Software Engineering</b></p>
       <p><b>ShenZhen University</b></p>
       <p><b>Email: jmxing0000@gmail.com</b></p>
+      <p>
+          <a href="https://github.com/XingJinming-real">
+              <img src="./github_s.jpg" height="30px" style="margin-bottom:-3px">
+          </a>
+          <a href="./masterSun.html">
+              <img src="./masterSun.jpg" height="30px" style="margin-bottom:-3px">
+          </a>
+      </p>
     </td>
 </table>
 
