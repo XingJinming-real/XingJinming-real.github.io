@@ -19,7 +19,7 @@ I am a senior undergraduate of [Computer Science and Software Engineering](https
 *09/2019 -- Present* **Shenzhen University (SZU)**, Shenzhen, Guangdong,
 China
 
--   Bachelor of Engineering, College of Computer Science and Software
+*  Bachelor of Engineering, College of Computer Science and Software
     Engineering
 
 <br><br/>
@@ -38,8 +38,8 @@ Department of Artificial Intelligence, SZU, China
           Rough Sets for Open-Set Scenarios
       <p>
       <ul>        
-        <li>Explore the innovative application of fuzzy rough sets in open-world semi-             supervised scenarios</li>
-        <li>Propose a unified open set semi-supervised learning framework based on fuzzy           rough sets (FRSOSSSL)</li>
+        <li>Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios</li>
+        <li>Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)</li>
         <li>Recommend a new data editing technique to correct error information</li>
       </ul>
     </td>
@@ -47,6 +47,22 @@ Department of Artificial Intelligence, SZU, China
 
 *10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**,
 Department of Artificial Intelligence, SZU, China
+<table border="0">
+    <td width="200" height="250" border="0">
+      <img src="/openSSL.jpg" width="100%">
+    </td>
+    <td width="1000" border="0">
+      <p>
+        A Unified Semi-Supervised Learning Framework Based on Fuzzy 
+          Rough Sets for Open-Set Scenarios
+      <p>
+      <ul>        
+        <li>Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios</li>
+        <li>Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)</li>
+        <li>Recommend a new data editing technique to correct error information</li>
+      </ul>
+    </td>
+</table>
 
 <table border="0">
     <td width="200" height="250" border="0">
