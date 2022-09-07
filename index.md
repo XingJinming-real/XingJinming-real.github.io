@@ -1,6 +1,6 @@
 <table border="0">
     <td width="30%" border="0">
-      <img src="/jmxing.jpg" width="100%">
+      <img src="/pics/jmxing.jpg" width="100%">
     </td>
     <td width="70%" border="0">
       <h1>Jinming Xing</h1>
@@ -10,10 +10,10 @@
       <p><b>Email: jmxing0000@gmail.com</b></p>
       <p>
           <a href="https://github.com/XingJinming-real">
-              <img src="./github_s.jpg" height="30px" style="margin-bottom:-3px">
+              <img src="./pics/github_s.jpg" height="30px" style="margin-bottom:-3px">
           </a>
-          <a href="./masterSun.html">
-              <img src="./masterSun.jpg" height="30px" style="margin-bottom:-3px">
+          <a href="./pics/ghsun.jpg">
+              <img src="./pics/masterSun.jpg" height="30px" style="margin-bottom:-3px">
           </a>
       </p>
     </td>
@@ -37,7 +37,7 @@ China
 
 <table border="0">
     <td width="200" height="250" border="0">
-      <img src="/openSSL.jpg" width="100%">
+      <img src="/pics/openSSL.jpg" width="100%">
     </td>
     <td width="1000" border="0">
       <p>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</p>    
@@ -52,10 +52,10 @@ China
 *10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 <table border="0">
     <td width="200" height="250" border="0">
-      <img src="/PMDE.jpg" width="100%">
+      <img src="/pics/PMDE.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p><a href="/PMDE.pdf">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a></p>
+      <p><a href="/pdfs/PMDE.pdf">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a></p>
       <ul>
         <li>Suggested a monotonic approximate attribute reduction model named
             parameterized maximum distribution entropy (PMDE), which assigns
@@ -75,7 +75,7 @@ Department of Artificial Intelligence, SZU, China
 
 <table border="0">
     <td width="200" height="250" border="0">
-      <img src="/WFRS.jpg" width="100%">
+      <img src="/pics/WFRS.jpg" width="100%">
     </td>
     <td width="1000" border="0">
       <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosismate Attribute Reduction</a></p>
