@@ -34,15 +34,9 @@ China
     <td width="1000" border="0">
       <p>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</p>    
         <ul>
-        <li>Suggested a monotonic approximate attribute reduction model named
-            parameterized maximum distribution entropy (PMDE), which assigns
-            different significance scores to various decisions</li>
-        <li>Propositioned a heuristic attribute selection algorithm by
-            introducing the idea of three-way decision, leading to a robust
-            reduction of attributes</li>
-        <li>Conducted numerous experiments on UCI's datasets, which demonstrated
-            the effectiveness of the planned method with much fewer attributes
-            over baseline methods</li>
+        <li>Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios</li>
+        <li>Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)</li>
+        <li>Recommend a new data editing technique to correct error information</li>
       </ul>
     </td>
 </table>
