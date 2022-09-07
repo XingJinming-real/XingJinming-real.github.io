@@ -10,10 +10,10 @@
       <p><b>Email: jmxing0000@gmail.com</b></p>
       <p>
           <a href="https://github.com/XingJinming-real">
-              <img src="./pics/github_s.jpg" height="40px" style="margin-bottom:-3px">
+              <img src="./pics/github_s.jpg" height="35px" style="margin-bottom:-3px">
           </a>
           <a href="./ghsun.html">
-              <img src="./pics/masterSun.jpg" height="40px" style="margin-bottom:-3px">
+              <img src="./pics/masterSun.jpg" height="35px" style="margin-bottom:-3px">
           </a>
       </p>
     </td>
