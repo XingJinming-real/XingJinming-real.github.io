@@ -14,7 +14,7 @@
 I am a senior undergraduate of [Computer Science and Software Engineering](https://csse.szu.edu.cn/) at [Shenzhen University](https://www.szu.edu.cn/). My research interests lie in Machine Learning, Deep Learning, Semi-supervised Learning, and Open-World Recognition.
 
 
-***Education***
+### Education
 
 *09/2019 -- Present* **Shenzhen University (SZU)**, Shenzhen, Guangdong,
 China
@@ -23,9 +23,31 @@ China
     Engineering
 
 
-***Research Experiences***
+### Research Experiences
 
+*12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 
+<table border="0">
+    <td width="200" height="250" border="0">
+      <img src="/openSSL.jpg" width="100%">
+    </td>
+    <td width="1000" border="0">
+      <p>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</p>    
+        <ul>
+        <li>Suggested a monotonic approximate attribute reduction model named
+            parameterized maximum distribution entropy (PMDE), which assigns
+            different significance scores to various decisions</li>
+        <li>Propositioned a heuristic attribute selection algorithm by
+            introducing the idea of three-way decision, leading to a robust
+            reduction of attributes</li>
+        <li>Conducted numerous experiments on UCI's datasets, which demonstrated
+            the effectiveness of the planned method with much fewer attributes
+            over baseline methods</li>
+      </ul>
+    </td>
+</table>
+
+*10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 <table border="0">
     <td width="200" height="250" border="0">
       <img src="/PMDE.jpg" width="100%">
@@ -68,7 +90,7 @@ Department of Artificial Intelligence, SZU, China
     </td>
 </table>
 
-***Publications***
+### Publications
 
 1.  **J. Xing**, C. Gao, J. Zhou, "[Weighted fuzzy rough sets-based
     tri-training and its application to medical
@@ -82,7 +104,7 @@ Department of Artificial Intelligence, SZU, China
     Approximate Reasoning (Revision). (JCR Q2, IF: 4.452)
 
 
-***Projects***
+### Projects
 
 -   "Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets",
     2022.9-, Guangdong Province Science and Technology Innovation
@@ -97,7 +119,7 @@ Department of Artificial Intelligence, SZU, China
     Development Experimental Project
 
 
-***Awards***
+### Awards
 
 1.  "Defect detection special robot based on Huawei AI platform",
     2021.12, Huawei ICT Competition. (National Third-Class Award)
@@ -107,7 +129,7 @@ Department of Artificial Intelligence, SZU, China
     (Honorable Award)
 
 
-***Technical Skills***
+### Technical Skills
 
 * **Professional Skills:**
 
