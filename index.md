@@ -13,7 +13,7 @@
 
 I am a senior undergraduate of [Computer Science and Software Engineering](https://csse.szu.edu.cn/) at [Shenzhen University](https://www.szu.edu.cn/). My research interests lie in Machine Learning, Deep Learning, Semi-supervised Learning, and Open-World Recognition.
 
-<br><br/>
+<br></br>
 ***Education***
 
 *09/2019 -- Present* **Shenzhen University (SZU)**, Shenzhen, Guangdong,
@@ -22,7 +22,7 @@ China
 *  Bachelor of Engineering, College of Computer Science and Software
     Engineering
 
-<br><br/>
+<br></br>
 ***Research Experiences***
 
 *12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**,
@@ -36,12 +36,10 @@ Department of Artificial Intelligence, SZU, China
       <p>
         A Unified Semi-Supervised Learning Framework Based on Fuzzy 
           Rough Sets for Open-Set Scenarios
-      <p>
-      <ul>        
+      <p>       
         <li>Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios</li>
         <li>Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)</li>
         <li>Recommend a new data editing technique to correct error information</li>
-      </ul>
     </td>
 </table>
 
@@ -112,7 +110,7 @@ Department of Artificial Intelligence, SZU, China
     </td>
 </table>
 
-<br><br/>
+<br></br>
 ***Publications***
 
 1.  **J. Xing**, C. Gao, J. Zhou, "[Weighted fuzzy rough sets-based
@@ -126,7 +124,7 @@ Department of Artificial Intelligence, SZU, China
     approximate attribute reduction" International Journal of
     Approximate Reasoning (Revision). (JCR Q2, IF: 4.452)
 
-<br><br/>
+<br></br>
 ***Projects***
 
 -   "Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets",
@@ -141,7 +139,7 @@ Department of Artificial Intelligence, SZU, China
     learning", 2020.11-2021.10, Shenzhen University Innovation and
     Development Experimental Project
 
-<br><br/>
+<br></br>
 ***Awards***
 
 1.  "Defect detection special robot based on Huawei AI platform",
@@ -151,7 +149,7 @@ Department of Artificial Intelligence, SZU, China
     ARIMA and LSTM", 2022.2, American Mathematical Contest in Modeling.
     (Honorable Award)
 
-<br><br/>
+<br></br>
 ***Technical Skills***
 
 * **Professional Skills:**
