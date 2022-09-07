@@ -25,17 +25,6 @@ China
 
 ***Research Experiences***
 
-*12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**,
-Department of Artificial Intelligence, SZU, China
-
-<table border="0">
-    <td width="200" height="250" border="0">
-      <img src="/openSSL.jpg" width="100%">
-    </td>
-    <td width="1000" border="0">
-      <p>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</p>       
-    </td>
-</table>
 
 <table border="0">
     <td width="200" height="250" border="0">
