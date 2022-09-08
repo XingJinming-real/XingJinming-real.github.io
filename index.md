@@ -12,24 +12,19 @@
           <a href="https://github.com/XingJinming-real">
               <img src="./pics/github_s.jpg" height="35px" style="margin-bottom:-3px">
           </a>
-          <a href="./ghsun.html">
-              <img src="./pics/masterSun.jpg" height="35px" style="margin-bottom:-3px">
-          </a>
       </p>
     </td>
 </table>
 
-I am a senior undergraduate of [Computer Science and Software Engineering](https://csse.szu.edu.cn/) at [Shenzhen University](https://www.szu.edu.cn/). My research interests lie in Machine Learning, Deep Learning, Semi-supervised Learning, and Open-World Recognition.
-
+I am a senior undergraduate of [Computer Science and Software Engineering](https://csse.szu.edu.cn/)
+at [Shenzhen University](https://www.szu.edu.cn/). My research interests lie in Machine Learning, Deep Learning,
+Semi-supervised Learning, and Open-World Recognition.
 
 ### Education
 
-*09/2019 -- Present* **Shenzhen University (SZU)**, Shenzhen, Guangdong,
-China
+*09/2019 -- Present* **Shenzhen University (SZU)**, Shenzhen, Guangdong, China
 
-*  Bachelor of Engineering, College of Computer Science and Software
-    Engineering
-
+* Bachelor of Engineering, College of Computer Science and Software Engineering
 
 ### Research Experiences
 
@@ -70,8 +65,7 @@ China
     </td>
 </table>
 
-*06/2021 -- 05/2022* Research Assistant \| **Prof. Can Gao's Lab**,
-Department of Artificial Intelligence, SZU, China
+*06/2021 -- 05/2022* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 
 <table border="0">
     <td width="200" height="250" border="0">
@@ -94,49 +88,44 @@ Department of Artificial Intelligence, SZU, China
 
 ### Publications
 
-1.  **J. Xing**, C. Gao, J. Zhou, "[Weighted fuzzy rough sets-based
-    tri-training and its application to medical
-    diagnosis](https://doi.org/10.1016/j.asoc.2022.109025)", Applied
-    Soft Computing, vol. 124, p. 109025, 2022, doi:
-    10.1016/j.asoc.2022.109025. (JCR Q1, IF: 8.263)
+1. **J. Xing**, C. Gao, J.
+   Zhou, "[Weighted fuzzy rough sets-based tri-training and its application to medical diagnosis](https://doi.org/10.1016/j.asoc.2022.109025)"
+   , Applied Soft Computing, vol. 124, p. 109025, 2022, doi:
+   10.1016/j.asoc.2022.109025. (JCR Q1, IF: 8.263)
 
-2.  C. Gao, J. Zhou, **J. Xing**, X. Yue,
-    "Parameterized-maximum-distribution-entropy-based three-way
-    approximate attribute reduction" International Journal of
-    Approximate Reasoning (Revision). (JCR Q2, IF: 4.452)
-
+2. C. Gao, J. Zhou, **J. Xing**, X. Yue,
+   "Parameterized-maximum-distribution-entropy-based three-way approximate attribute reduction" International Journal of
+   Approximate Reasoning (Revision). (JCR Q2, IF: 4.452)
 
 ### Projects
 
--   "Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets",
-    2022.9-, Guangdong Province Science and Technology Innovation
-    Strategy Special Fund Project
+- "Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets", 2022.9-, Guangdong Province Science and Technology
+  Innovation Strategy Special Fund Project
 
--   "Multimodal weakly supervised learning methods and applications",
-    2021.6-2022.5, National College Students Innovation and
-    Entrepreneurship Training Project
+- "Multimodal weakly supervised learning methods and applications", 2021.6-2022.5, National College Students Innovation
+  and Entrepreneurship Training Project
 
--   "Research on handwriting recognition technology based on deep
-    learning", 2020.11-2021.10, Shenzhen University Innovation and
-    Development Experimental Project
-
+- "Research on handwriting recognition technology based on deep learning", 2020.11-2021.10, Shenzhen University
+  Innovation and Development Experimental Project
 
 ### Awards
 
-1.  "Defect detection special robot based on Huawei AI platform",
-    2021.12, Huawei ICT Competition. (National Third-Class Award)
+1. "Defect detection special robot based on Huawei AI platform", 2021.12, Huawei ICT Competition. (National Third-Class
+   Award)
 
-2.  "A multi-granularity weighted property investment model based on
-    ARIMA and LSTM", 2022.2, American Mathematical Contest in Modeling.
-    (Honorable Award)
-
+2. "A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
+   Contest in Modeling.
+   (Honorable Award)
 
 ### Technical Skills
 
 * **Professional Skills:**
 
-  - Intermediate use of Python and C++, able to reproduce common data structures and capable at common machine learning algorithms (PCA/LDA; CART/SVM; Spectral Clustering/DBSCAN; self-training/co-training/tri-training; Ridge/Lasso/Elastic Net; LOF) for data analysis and visualization
+    - Intermediate use of Python and C++, able to reproduce common data structures and capable at common machine
+      learning algorithms (PCA/LDA; CART/SVM; Spectral Clustering/DBSCAN; self-training/co-training/tri-training;
+      Ridge/Lasso/Elastic Net; LOF) for data analysis and visualization
 
-  - Ability to use OpenCV for basic image processing and PyTorch for network construction. Knowledge of common Convolutional Neural Networks and an understanding of preliminary Recurrent Neural Networks
+    - Ability to use OpenCV for basic image processing and PyTorch for network construction. Knowledge of common
+      Convolutional Neural Networks and an understanding of preliminary Recurrent Neural Networks
 
 * **Computational Skills:** MATLAB, Linux, Web Crawler
