@@ -18,7 +18,7 @@
 
 I am a senior undergraduate of [Computer Science and Software Engineering](https://csse.szu.edu.cn/)
 at [Shenzhen University](https://www.szu.edu.cn/). My research interests lie in Machine Learning, Deep Learning,
-Semi-supervised Learning, and Open-World Recognition.
+Semi-supervised Learning, and Open-Set Recognition.
 
 ### Education
 
@@ -97,6 +97,8 @@ Semi-supervised Learning, and Open-World Recognition.
    "Parameterized-maximum-distribution-entropy-based three-way approximate attribute reduction" International Journal of
    Approximate Reasoning (Revision). (JCR Q2, IF: 4.452)
 
+3. Z. Wang, C. Gao, **J. Xing**, “[Three-way Approximate Reduction Based on Positive Region](https://doi.org/10.11896/jsjkx.210500067)”, Computer Science, vol. 49, p.
+   168-173, 2022, doi: 10.11896/jsjkx.210500067. (Chinese)
 ### Projects
 
 - "Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets", 2022.9-, Guangdong Province Science and Technology
@@ -112,11 +114,15 @@ Semi-supervised Learning, and Open-World Recognition.
 
 1. "Defect detection special robot based on Huawei AI platform", 2021.12, Huawei ICT Competition. (National Third-Class
    Award)
-
+   
 2. "A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
    Contest in Modeling.
    (Honorable Award)
+   
 
+
+### Languages
+TOEFL: 95
 ### Technical Skills
 
 * **Professional Skills:**
