@@ -99,6 +99,7 @@ Semi-supervised Learning, and Open-Set Recognition.
 
 3. Z. Wang, C. Gao, **J. Xing**, “[Three-way Approximate Reduction Based on Positive Region](https://doi.org/10.11896/jsjkx.210500067)”, Computer Science, vol. 49, p.
    168-173, 2022, doi: 10.11896/jsjkx.210500067. (Chinese)
+
 ### Projects
 
 - "Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets", 2022.9-, Guangdong Province Science and Technology
@@ -119,10 +120,10 @@ Semi-supervised Learning, and Open-Set Recognition.
    Contest in Modeling.
    (Honorable Award)
    
-
-
 ### Languages
+
 TOEFL: 95
+
 ### Technical Skills
 
 * **Professional Skills:**
