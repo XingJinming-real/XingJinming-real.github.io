@@ -135,4 +135,4 @@ TOEFL: 95
     - Ability to use OpenCV for basic image processing and PyTorch for network construction. Knowledge of common
       Convolutional Neural Networks and an understanding of preliminary Recurrent Neural Networks
 
-* **Computational Skills:** MATLAB, Linux, Web Crawler
+* **Computational Skills:** MATLAB, Linux, Web Crawler, Web Development
