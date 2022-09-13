@@ -50,7 +50,7 @@ Semi-supervised Learning, and Open-Set Recognition.
       <img src="/pics/PMDE.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p><a href="/pdfs/PMDE.pdf">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a></p>
+      <p><a href="https://authors.elsevier.com/tracking/article/details.do?aid=8831&jid=IJA&surname=Zhou">Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</a></p>
       <ul>
         <li>Suggested a monotonic approximate attribute reduction model named
             parameterized maximum distribution entropy (PMDE), which assigns
@@ -91,14 +91,14 @@ Semi-supervised Learning, and Open-Set Recognition.
 1. **J. Xing**, C. Gao, J.
    Zhou, "[Weighted fuzzy rough sets-based tri-training and its application to medical diagnosis](https://doi.org/10.1016/j.asoc.2022.109025)"
    , Applied Soft Computing, vol. 124, p. 109025, 2022, doi:
-   10.1016/j.asoc.2022.109025. (JCR Q1, IF: 8.263)
+   10.1016/j.asoc.2022.109025. (JCR Q1, IF: 8.263, [PDF](./pdfs/WFRS.pdf))
 
 2. C. Gao, J. Zhou, **J. Xing**, X. Yue,
-   "Parameterized-maximum-distribution-entropy-based three-way approximate attribute reduction" International Journal of
-   Approximate Reasoning (Revision). (JCR Q2, IF: 4.452)
+   "[Parameterized-maximum-distribution-entropy-based three-way approximate attribute reduction](https://authors.elsevier.com/tracking/article/details.do?aid=8831&jid=IJA&surname=Zhou)" International Journal of
+   Approximate Reasoning (Preprint). (JCR Q2, IF: 4.452, [PDF](./pdfs/PMDE.pdf))
 
 3. Z. Wang, C. Gao, **J. Xing**, “[Three-way Approximate Reduction Based on Positive Region](https://doi.org/10.11896/jsjkx.210500067)”, Computer Science, vol. 49, p.
-   168-173, 2022, doi: 10.11896/jsjkx.210500067. (Chinese)
+   168-173, 2022, doi: 10.11896/jsjkx.210500067. (Chinese, [PDF](./pdfs/3WFR.pdf))
 
 ### Projects
 
@@ -135,4 +135,4 @@ TOEFL: 95
     - Ability to use OpenCV for basic image processing and PyTorch for network construction. Knowledge of common
       Convolutional Neural Networks and an understanding of preliminary Recurrent Neural Networks
 
-* **Computational Skills:** MATLAB, Linux, Web Crawler
+* **Computational Skills:** MATLAB, Linux, Web Crawler, Web Development

@@ -22,10 +22,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdfs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XingJinming-real.github.io\pdfs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\XingJinming-real.github.io" />
       <recent name="D:\XingJinming-real.github.io\pics" />
@@ -45,7 +48,8 @@
       <workItem from="1662560032619" duration="419000" />
       <workItem from="1662620533590" duration="149000" />
       <workItem from="1662715132666" duration="105000" />
-      <workItem from="1662715262404" duration="805000" />
+      <workItem from="1662715262404" duration="1400000" />
+      <workItem from="1663075762945" duration="395000" />
     </task>
     <servers />
   </component>
