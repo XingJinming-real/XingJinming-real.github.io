@@ -15,7 +15,7 @@
       </p>
       <p>
           <a href="./ALL.zip" style="color:#f78166">All papers and certificates can be found here</a>
-      <p>
+      </p>
     </td>
 </table>
 
