@@ -13,6 +13,8 @@
               <img src="./pics/github_s.jpg" height="35px" style="margin-bottom:-3px">
           </a>
       </p>
+      <p>
+          <a href="./ALL.zip" style="color:#f78166">All papers and certificates can be found here</a>
     </td>
 </table>
 
