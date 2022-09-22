@@ -97,11 +97,13 @@ Semi-supervised Learning, and Open-Set Recognition.
    10.1016/j.asoc.2022.109025. (JCR Q1, IF: 8.263, [PDF](./pdfs/WFRS.pdf))
 
 2. C. Gao, J. Zhou, **J. Xing**, X. Yue,
-   "[Parameterized-maximum-distribution-entropy-based three-way approximate attribute reduction](https://doi.org/10.1016/j.ijar.2022.09.007)" International Journal of
-   Approximate Reasoning. vol. 151, p. 85-100, 2022, doi: 10.1016/j.ijar.2022.09.007 (JCR Q2, IF: 4.452, [PDF](./pdfs/PMDE.pdf))
+   "[Parameterized-maximum-distribution-entropy-based three-way approximate attribute reduction](https://doi.org/10.1016/j.ijar.2022.09.007)"
+   International Journal of Approximate Reasoning. vol. 151, p. 85-100, 2022, doi: 10.1016/j.ijar.2022.09.007 (JCR Q2,
+   IF: 4.452, [PDF](./pdfs/PMDE.pdf))
 
-3. Z. Wang, C. Gao, **J. Xing**, “[Three-way Approximate Reduction Based on Positive Region](https://doi.org/10.11896/jsjkx.210500067)”, Computer Science, vol. 49, p.
-   168-173, 2022, doi: 10.11896/jsjkx.210500067. (Chinese, [PDF](./pdfs/3WFR.pdf))
+3. Z. Wang, C. Gao, **J. Xing**,
+   “[Three-way Approximate Reduction Based on Positive Region](https://doi.org/10.11896/jsjkx.210500067)”, Computer
+   Science, vol. 49, p. 168-173, 2022, doi: 10.11896/jsjkx.210500067. (Chinese, [PDF](./pdfs/3WFR.pdf))
 
 ### Projects
 
@@ -118,11 +120,11 @@ Semi-supervised Learning, and Open-Set Recognition.
 
 1. "Defect detection special robot based on Huawei AI platform", 2021.12, Huawei ICT Competition. (National Third-Class
    Award)
-   
+
 2. "A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
    Contest in Modeling.
    (Honorable Award)
-   
+
 ### Languages
 
 TOEFL: 95

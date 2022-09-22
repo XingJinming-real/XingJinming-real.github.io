@@ -22,19 +22,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdfs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pics" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XingJinming-real.github.io\pics" />
       <recent name="D:\XingJinming-real.github.io\pdfs" />
       <recent name="D:\XingJinming-real.github.io" />
-      <recent name="D:\XingJinming-real.github.io\pics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\XingJinming-real.github.io\pdfs" />
       <recent name="D:\XingJinming-real.github.io" />
       <recent name="D:\XingJinming-real.github.io\pics" />
-      <recent name="D:\XingJinming-real.github.io\pdfs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,6 +55,7 @@
       <workItem from="1663076442985" duration="607000" />
       <workItem from="1663127042776" duration="812000" />
       <workItem from="1663402992562" duration="184000" />
+      <workItem from="1663848026117" duration="787000" />
     </task>
     <servers />
   </component>
