@@ -127,7 +127,7 @@ Semi-supervised Learning, and Open-Set Recognition.
 
 ### Languages
 
-TOEFL: 98
+TOEFL: 95
 
 ### Technical Skills
 
