@@ -107,7 +107,7 @@ Semi-supervised Learning, and Open-Set Recognition.
 
 ### Projects
 
-- "Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets", 2022.9-, Guangdong Province Science and Technology
+- "Open-world semi-supervised learning based on fuzzy rough sets", 2022.9-, Guangdong Province Science and Technology
   Innovation Strategy Special Fund Project
 
 - "Multimodal weakly supervised learning methods and applications", 2021.6-2022.5, National College Students Innovation
