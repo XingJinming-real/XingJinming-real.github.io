@@ -118,16 +118,13 @@ Semi-supervised Learning, and Open-Set Recognition.
 
 ### Awards
 
-1. "Defect detection special robot based on Huawei AI platform", 2021.12, Huawei ICT Competition. (National Third-Class
-   Award)
-
-2. "A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
+1."A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
    Contest in Modeling.
    (Honorable Award)
 
 ### Languages
 
-TOEFL: 95
+TOEFL: 98
 
 ### Technical Skills
 
@@ -138,6 +135,7 @@ TOEFL: 95
       Ridge/Lasso/Elastic Net; LOF) for data analysis and visualization
 
     - Ability to use OpenCV for basic image processing and PyTorch for network construction. Knowledge of common
-      Convolutional Neural Networks and an understanding of preliminary Recurrent Neural Networks
+      Convolutional Neural Networks and an understanding of preliminary Recurrent Neural Networks and Graph Neural
+      Networks
 
 * **Computational Skills:** MATLAB, Linux, Web Crawler, Web Development
