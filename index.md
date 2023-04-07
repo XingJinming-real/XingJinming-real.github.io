@@ -13,9 +13,6 @@
               <img src="./pics/github_s.jpg" height="35px" style="margin-bottom:-3px">
           </a>
       </p>
-      <p>
-          <a href="./ALL.zip" style="color:#f78166">All papers and certificates can be found here</a>
-      </p>
     </td>
 </table>
 
@@ -103,7 +100,7 @@ Semi-supervised Learning, and Open-Set Recognition.
 
 3. Z. Wang, C. Gao, **J. Xing**,
    “[Three-way Approximate Reduction Based on Positive Region](https://doi.org/10.11896/jsjkx.210500067)”, Computer
-   Science, vol. 49, p. 168-173, 2022, doi: 10.11896/jsjkx.210500067. (Chinese, [PDF](./pdfs/3WFR.pdf))
+   Science, vol. 49, p. 168-173, 2022, doi: 10.11896/jsjkx.210500067. ([PDF](./pdfs/3WFR.pdf))
 
 ### Projects
 
@@ -116,12 +113,9 @@ Semi-supervised Learning, and Open-Set Recognition.
 - "Research on handwriting recognition technology based on deep learning", 2020.11-2021.10, Shenzhen University
   Innovation and Development Experimental Project
 
-### Awards
+### Competitions
 
-1. "Defect detection special robot based on Huawei AI platform", 2021.12, Huawei ICT Competition. (National Third-Class
-   Award)
-
-2. "A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
+1. "A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
    Contest in Modeling.
    (Honorable Award)
 
@@ -133,11 +127,10 @@ TOEFL: 98
 
 * **Professional Skills:**
 
-    - Intermediate use of Python and C++, able to reproduce common data structures and capable at common machine
-      learning algorithms (PCA/LDA; CART/SVM; Spectral Clustering/DBSCAN; self-training/co-training/tri-training;
-      Ridge/Lasso/Elastic Net; LOF) for data analysis and visualization
+    - Intermediate use of Python and C++, able to reproduce common data structures and capable at common machine learning algorithms (PCA/LDA; CART/SVM; Spectral Clustering/DBSCAN; self-training/co-training/tri-training; Ridge/Lasso/Elastic Net; LOF) for data analysis and visualization
 
-    - Ability to use OpenCV for basic image processing and PyTorch for network construction. Knowledge of common
-      Convolutional Neural Networks and an understanding of preliminary Recurrent Neural Networks
+    - Ability to use OpenCV for basic image processing and PyTorch for network construction. 
+  
+    - Knowledge of common Convolutional Neural Networks, and an understanding of preliminary Recurrent Neural Networks and Graph Neural Networks
 
 * **Computational Skills:** MATLAB, Linux, Web Crawler, Web Development
