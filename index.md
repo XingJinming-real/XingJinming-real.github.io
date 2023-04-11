@@ -28,7 +28,7 @@ Semi-supervised Learning, and Open-Set Recognition.
 
 ### Research Experiences
 
-*12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
+*12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**, SZU, China
 
 <table border="0">
     <td width="200" height="250" border="0">
@@ -44,7 +44,7 @@ Semi-supervised Learning, and Open-Set Recognition.
     </td>
 </table>
 
-*10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
+*10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**, SZU, China
 <table border="0">
     <td width="200" height="250" border="0">
       <img src="/pics/PMDE.jpg" width="100%">
@@ -65,14 +65,14 @@ Semi-supervised Learning, and Open-Set Recognition.
     </td>
 </table>
 
-*06/2021 -- 05/2022* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
+*06/2021 -- 05/2022* Research Assistant \| **Prof. Can Gao's Lab**, SZU, China
 
 <table border="0">
     <td width="200" height="250" border="0">
       <img src="/pics/WFRS.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosismate Attribute Reduction</a></p>
+      <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training</a></p>
         <ul>
             <li>Proposed bad-points technique for dataset denoising and high-order
                 strategy is used to extract further comprehensive spatial
@@ -103,9 +103,6 @@ Semi-supervised Learning, and Open-Set Recognition.
    Science, vol. 49, p. 168-173, 2022, doi: 10.11896/jsjkx.210500067. ([PDF](./pdfs/3WFR.pdf))
 
 ### Projects
-
-- "Open-world semi-supervised learning based on fuzzy rough sets", 2022.9-, Guangdong Province Science and Technology
-  Innovation Strategy Special Fund Project
 
 - "Multimodal weakly supervised learning methods and applications", 2021.6-2022.5, National College Students Innovation
   and Entrepreneurship Training Project
