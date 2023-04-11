@@ -72,7 +72,7 @@ Semi-supervised Learning, and Open-Set Recognition.
       <img src="/pics/WFRS.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training</a></p>
+      <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Multimodal Weakly Supervised Learning Methods</a></p>
         <ul>
             <li>Proposed bad-points technique for dataset denoising and high-order
                 strategy is used to extract further comprehensive spatial
