@@ -16,19 +16,20 @@
     </td>
 </table>
 
-I am a senior undergraduate of [Computer Science and Software Engineering](https://csse.szu.edu.cn/)
-at [Shenzhen University](https://www.szu.edu.cn/). My research interests lie in Machine Learning, Deep Learning,
-Semi-supervised Learning, and Open-Set Recognition.
+I am a senior undergraduate of [Computer Science and Software Engineering College](https://csse.szu.edu.cn/)
+at [Shenzhen University](https://www.szu.edu.cn/), and I will pursue my PhD degree in [Computer Science Department](https://www.csc.ncsu.edu/index.php) at [North Coralina State University](https://www.ncsu.edu/) in 2023 Fall. My research interests lie in Machine Learning, Deep Learning, Semi-supervised Learning, Open-Set Recognition, and their applicaitons in computer networks.
 
 ### Education
 
-*09/2019 -- Present* **Shenzhen University (SZU)**, Shenzhen, Guangdong, China
+*09/2019 -- 06/2023* **Shenzhen University (SZU)**, Shenzhen, Guangdong, China
 
 * Bachelor of Engineering, College of Computer Science and Software Engineering
 
+---
+
 ### Research Experiences
 
-*12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**, SZU, China
+*12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 
 <table border="0">
     <td width="200" height="250" border="0">
@@ -39,12 +40,12 @@ Semi-supervised Learning, and Open-Set Recognition.
         <ul>
         <li>Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios</li>
         <li>Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)</li>
-        <li>Recommend a new data editing technique to correct error information</li>
+        <li>Extensive experimental results demonstate the superiority of the proposed model</li>
       </ul>
     </td>
 </table>
 
-*10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**, SZU, China
+*10/2021 -- 08/2022* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 <table border="0">
     <td width="200" height="250" border="0">
       <img src="/pics/PMDE.jpg" width="100%">
@@ -65,14 +66,14 @@ Semi-supervised Learning, and Open-Set Recognition.
     </td>
 </table>
 
-*06/2021 -- 05/2022* Research Assistant \| **Prof. Can Gao's Lab**, SZU, China
+*06/2021 -- 05/2022* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 
 <table border="0">
     <td width="200" height="250" border="0">
       <img src="/pics/WFRS.jpg" width="100%">
     </td>
     <td width="1000" border="0">
-      <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Multimodal Weakly Supervised Learning Methods</a></p>
+      <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494622003362">Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosis</a></p>
         <ul>
             <li>Proposed bad-points technique for dataset denoising and high-order
                 strategy is used to extract further comprehensive spatial
@@ -85,6 +86,8 @@ Semi-supervised Learning, and Open-Set Recognition.
         </ul>
     </td>
 </table>
+
+---
 
 ### Publications
 
@@ -102,7 +105,11 @@ Semi-supervised Learning, and Open-Set Recognition.
    “[Three-way Approximate Reduction Based on Positive Region](https://doi.org/10.11896/jsjkx.210500067)”, Computer
    Science, vol. 49, p. 168-173, 2022, doi: 10.11896/jsjkx.210500067. ([PDF](./pdfs/3WFR.pdf))
 
+---
+
 ### Projects
+
+- "Open-world semi-supervised learning based on fuzzy rough sets", 2022.9-, Guangdong Province Science and Technology Innovation Strategy Special Fund Project
 
 - "Multimodal weakly supervised learning methods and applications", 2021.6-2022.5, National College Students Innovation
   and Entrepreneurship Training Project
@@ -110,21 +117,28 @@ Semi-supervised Learning, and Open-Set Recognition.
 - "Research on handwriting recognition technology based on deep learning", 2020.11-2021.10, Shenzhen University
   Innovation and Development Experimental Project
 
+---
+
 ### Competitions
 
 1. "A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American Mathematical
    Contest in Modeling.
    (Honorable Award)
+2. "Defect detection robots based on Huawei AI platform", 2021.12, Huawei ICT Competition. (National Third Award)
+
+---
 
 ### Languages
 
 TOEFL: 98
 
+---
+
 ### Technical Skills
 
 * **Professional Skills:**
 
-    - Intermediate use of Python and C++, able to reproduce common data structures and capable at common machine learning algorithms (PCA/LDA; CART/SVM; Spectral Clustering/DBSCAN; self-training/co-training/tri-training; Ridge/Lasso/Elastic Net; LOF) for data analysis and visualization
+    - Intermediate use of Python and C++, able to reproduce common data structures and capable of using common machine learning algorithms (PCA/LDA; CART/SVM; Spectral Clustering/DBSCAN; self-training/co-training/tri-training; Ridge/Lasso/Elastic Net; LOF) for data analysis and visualization
 
     - Ability to use OpenCV for basic image processing and PyTorch for network construction. 
   
