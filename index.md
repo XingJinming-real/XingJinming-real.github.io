@@ -4,7 +4,7 @@
     </td>
     <td width="70%" border="0">
       <h1>Jinming Xing</h1>
-      <p>I am a senior undergraduate of <a href=https://csse.szu.edu.cn>Computer Science and Software Engineering College</a> at <a href=https://www.szu.edu.cn>Shenzhen University</a>, and I will pursue my PhD degree in <a href=https://www.csc.ncsu.edu/index.php>Computer Science Department</a> at <a href=https://www.ncsu.edu>North Coralina State University</a> in 2023 Fall. My research interests lie in Machine Learning, Deep Learning, Semi-supervised Learning, Open-Set Recognition, and their applicaitons in Computer Networks.</p>
+      <p>I am a senior undergraduate of [Computer Science and Software Engineering College](https://csse.szu.edu.cn) at <a href=https://www.szu.edu.cn>Shenzhen University</a>, and I will pursue my PhD degree in <a href=https://www.csc.ncsu.edu/index.php>Computer Science Department</a> at <a href=https://www.ncsu.edu>North Coralina State University</a> in 2023 Fall. My research interests lie in Machine Learning, Deep Learning, Semi-supervised Learning, Open-Set Recognition, and their applicaitons in Computer Networks.</p>
       <p><b>Email: jmxing0000@gmail.com</b></p>
       <p>
           <a href="https://github.com/XingJinming-real">
