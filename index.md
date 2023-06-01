@@ -14,6 +14,7 @@
               <img src="./pics/github_s.jpg" height="35px" style="margin-bottom:-3px">
           </a>
       </p>
+      <p><b>I am so fortunate to know my girlfriend <a href='wujunqin-real.github.io'>Junqin Wu</a> and I will love her forever.</b></p>
     </td>
 </table>
 
