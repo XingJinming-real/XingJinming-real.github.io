@@ -14,13 +14,12 @@
               <img src="./pics/github_s.jpg" height="35px" style="margin-bottom:-3px">
           </a>
       </p>
-      <p><b>I am so fortunate to know my girlfriend <a href='https://wujunqin-real.github.io'>Junqin Wu</a> and I will love her forever.</b></p>
     </td>
 </table>
 
 ### Education
 
-*09/2019 -- 06/2023* **Shenzhen University (SZU)**, Shenzhen, Guangdong, China
+*09/2019 -- 07/2023* **Shenzhen University (SZU)**, Shenzhen, Guangdong, China
 
 * Bachelor of Engineering, College of Computer Science and Software Engineering
 
@@ -28,18 +27,31 @@
 
 ### Research Experiences
 
-*12/2021 -- Present* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
+*12/2021 -- 07/2023* Research Assistant \| **Prof. Can Gao's Lab**, Department of Artificial Intelligence, SZU, China
 
 <table border="0">
     <td width="200" height="250" border="0">
-      <img src="/pics/openSSL.jpg" width="100%">
+      <img src="/pics/OSSL.png" width="100%">
     </td>
     <td width="1000" border="0">
       <p>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</p>    
         <ul>
-        <li>Explore the innovative application of fuzzy rough sets in open-world semi-supervised scenarios</li>
-        <li>Propose a unified open set semi-supervised learning framework based on fuzzy rough sets (FRSOSSSL)</li>
-        <li>Extensive experimental results demonstate the superiority of the proposed model</li>
+        <li>Based on the OVR strategy and FRS, we proposed
+        a novel sample center identifying method that can
+        achieve the discovery of unknown classes centers
+        using density and fuzzy lower approximation.</li>
+        <li>We proposed a one-stage learning strategy, which
+        can direct the OVR base classifiers adaptively and
+        iteratively learn unlabeled data. Combing center
+        identifying method and one-stage strategy, the proposed model is able to distinguish and learn OOD
+        and ID samples simultaneously, while increasing
+        model’s consistency and robustness compared to
+        existing two-stage methods</li>
+        <li>We conducted extensive experiments on artificial
+        datasets as well as real UCI and images datasets.
+        The experimental results show that the proposed
+        one-stage unified model can robustly distinguish the
+        OOD samples from the ID samples and learn them effectively</li>
       </ul>
     </td>
 </table>
@@ -127,9 +139,10 @@
 
 ---
 
-### Languages
+### Awards
+1. Shenzhen University Excellent Graduation Student
+2. Shenzhen University Honored Bachelor Degree
 
-TOEFL: 98
 
 ---
 
