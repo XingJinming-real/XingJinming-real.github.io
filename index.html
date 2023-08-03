@@ -17,6 +17,7 @@
             background-color: #fff;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
         }
 
         h1 {
@@ -52,25 +53,57 @@
 
         .project-item {
             margin-bottom: 15px;
+            display: flex;
+            align-items: flex-start; /* Align project titles to the top */
+        }
+
+        .project-item img {
+            max-width: 150px;
+            margin-right: 20px;
+        }
+
+        .project-item p {
+            flex: 1;
+        }
+
+        .project-item h3 { /* Added CSS for project titles */
+            margin: 0;
+            color: #007bff;
+        }
+
+        .contact-info {
+            margin-top: 20px;
+        }
+
+        .introduction {
+            overflow: hidden;
+        }
+
+        .introduction img {
+            float: left;
+            margin-right: 15px;
+            max-width: 200px;
         }
     </style>
 </head>
 <body>
 <div class="container">
     <h1><a href="https://xingjinming-real.github.io/">Jinming Xing</a></h1>
-    <img src="/pics/jmxing.jpg" alt="Jinming Xing">
-    <div>
+    <div class="introduction">
+        <img src="/pics/jmxing.jpg" alt="Jinming Xing">
         <p>I am a senior undergraduate of <b>Computer Science and Software Engineering College</b> at <b>Shenzhen University</b>, and I will pursue my PhD degree in <b>Computer Science Department</b> at <b>North Carolina State University</b> in Fall 2023. My research interests lie in Machine Learning, Deep Learning, Semi-supervised Learning, Open-Set Recognition, and their applications in Computer Networks.</p>
     </div>
-    <p><b>Email: jmxing0000@gmail.com</b></p>
-    <p>
-        <a href="https://github.com/XingJinming-real">
-            <img src="./pics/github_s.jpg" alt="GitHub" height="35px">
-        </a>
-    </p>
+    <div class="contact-info">
+        <p><b>Email: jmxing0000@gmail.com</b></p>
+        <p>
+            <a href="https://github.com/XingJinming-real">
+                <img src="./pics/github_s.jpg" alt="GitHub" height="35px" width="35px">
+            </a>
+        </p>
+    </div>
     <hr>
     <h2>Education</h2>
-    <p><em>09/2019 – 07/2023</em> <strong>Shenzhen University (SZU)</strong>, Shenzhen, Guangdong, China</p>
+    <p><em>09/2019 - 07/2023</em> <strong>Shenzhen University (SZU)</strong>, Shenzhen, Guangdong, China</p>
     <ul>
         <li>Bachelor of Engineering, College of Computer Science and Software Engineering</li>
     </ul>
@@ -78,29 +111,29 @@
     <h2>Research Experiences</h2>
     <div class="project-item">
         <img src="/pics/OSSL.png" alt="Project 1">
-        <p><strong>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</strong></p>
-        <ul>
-            <li>Proposed a novel sample center identifying method based on OVR strategy and FRS.</li>
-            <li>Introduced a one-stage learning strategy for adaptively and iteratively learning unlabeled data.</li>
-            <li>Conducted extensive experiments on artificial and real datasets to demonstrate the model's effectiveness.</li>
-        </ul>
+        <div>
+            <h3>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</h3>
+            <p>Proposed a novel sample center identifying method based on OVR strategy and FRS.</p>
+            <p>Introduced a one-stage learning strategy for adaptively and iteratively learning unlabeled data.</p>
+            <p>Conducted extensive experiments on artificial and real datasets to demonstrate the model's effectiveness.</p>
+        </div>
     </div>
     <div class="project-item">
         <img src="/pics/PMDE.jpg" alt="Project 2">
-        <p><strong>Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</strong></p>
-        <ul>
-            <li>Suggested a monotonic approximate attribute reduction model named PMDE.</li>
-            <li>Proposed a heuristic attribute selection algorithm based on three-way decision.</li>
-            <li>Conducted experiments on UCI datasets, showing the effectiveness of the method.</li>
-        </ul>
+        <div>
+            <h3>Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</h3>
+            <p>Suggested a monotonic approximate attribute reduction model named PMDE.</p>
+            <p>Proposed a heuristic attribute selection algorithm based on three-way decision.</p>
+            <p>Conducted experiments on UCI datasets, showing the effectiveness of the method.</p>
+        </div>
     </div>
     <div class="project-item">
         <img src="/pics/WFRS.jpg" alt="Project 3">
-        <p><strong>Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosis</strong></p>
-        <ul>
-            <li>Proposed a bad-points technique for dataset denoising and a high-order strategy for comprehensive spatial information extraction.</li>
-            <li>Designed a robust weighted fuzzy lower approximation classifier for supervised and semi-supervised problems.</li>
-        </ul>
+        <div>
+            <h3>Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosis</h3>
+            <p>Proposed a bad-points technique for dataset denoising and a high-order strategy for comprehensive spatial information extraction.</p>
+            <p>Designed a robust weighted fuzzy lower approximation classifier for supervised and semi-supervised problems.</p>
+        </div>
     </div>
     <hr>
     <h2>Publications</h2>
