@@ -61,7 +61,9 @@ h2 {
 p {
     line-height: 1.6;
 }
-
+li {
+    line-height: 1.6;
+}
 ul {
     list-style-type: disc;
     margin-left: 20px;
