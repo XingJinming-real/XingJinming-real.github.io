@@ -4,7 +4,7 @@
     <title>Jinming Xing</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body id="body">
 <header class="sticky-header">
     <!-- Your header content goes here -->
     <nav>
@@ -24,10 +24,11 @@
     </h1>
     <div class="section-content introduction"> <!-- Add the "section-content" class -->
         <img src="/pics/jmxing.jpg" alt="Jinming Xing">
-        <p>I am a senior undergraduate of <b>Computer Science and Software Engineering College</b> at <b>Shenzhen
-            University</b>, and I will pursue my PhD degree in <b>Computer Science Department</b> at <b>North
-            Carolina State University</b> in Fall 2023. My research interests lie in Machine Learning, Deep
-            Learning, Semi-supervised Learning, Open-Set Recognition, and their applications in Computer Networks.
+        <p>I am a first year PhD student in <a href="https://www.csc.ncsu.edu"> Computer Science Department</a> of <a
+                href="https://www.ncsu.edu">NC State University</a>. Prior to that, I got my bachelor degree (Honor)
+            from <a href="https://csse.szu.edu.cn">Computer Science Department</a> of <a href="https://www.szu.edu.cn">Shenzhen
+                University</a>. My research interests lie in Applied Machine Learning/Deep Learning,
+            especially in Reinforcement Learning and Graph Neural Networks.
         </p>
     </div>
     <div class="section-content contact-info"> <!-- Add the "section-content" class -->
@@ -53,16 +54,32 @@
         </ul>
     </div>
     <hr>
+    <a id="TechnicalSkills"></a>
+    <h2 class="section-toggle">Technical Skills</h2>
+    <div class="section-content">
+        <ul>
+            <li><strong>Professional Skills:</strong> Intermediate use of Python, data analysis and
+                visualization (scikit-learn, matplotlib, seaborn), basic image processing using OpenCV, neural network
+                construction using PyTorch, knowledge of
+                common CNNs, RNNs, GNNs, and basic RL.
+            </li>
+            <li><strong>Computational Skills:</strong> Matlab, Linux, Web Crawler, Web Development (Flask, MySQL), Latex, PyQT</li>
+        </ul>
+    </div>
+    <hr>
     <a id="ResearchExperiences"></a>
     <h2 class="section-toggle">Research Experiences</h2>
     <div class="section-content">
         <div class="project-item">
             <img src="/pics/OSSL.png" alt="Project 1">
             <div>
-                <h3>A Unified Semi-Supervised Learning Framework Based on Fuzzy Rough Sets for Open-Set Scenarios</h3>
+                <h3>A Unified Semi-supervised Learning Framework Based on Fuzzy Rough Sets for Open-set Scenarios</h3>
                 <ul>
-                    <li>Proposed a novel sample center identifying method based on OVR strategy and FRS.</li>
-                    <li>Introduced a one-stage learning strategy for adaptively and iteratively learning unlabeled data.
+                    <li>Proposed a novel sample center identifying method based on One-vs-Rest strategy and Fuzzy Rough
+                        Sets.
+                    </li>
+                    <li>Introduced a one-stage learning strategy for adaptively and iteratively learning and classifying
+                        unlabeled data.
                     </li>
                     <li>Conducted extensive experiments on artificial and real datasets to demonstrate the model's
                         effectiveness.
@@ -71,51 +88,47 @@
             </div>
         </div>
         <div class="project-item">
-            <img src="/pics/PMDE.jpg" alt="Project 2">
-            <div>
-                <h3>Parameterized-Maximum-Distribution-Entropy based Three-Way Approximate Attribute Reduction</h3>
-                <ul>
-                    <li>Suggested a monotonic approximate attribute reduction model named PMDE.</li>
-                    <li>Proposed a heuristic attribute selection algorithm based on three-way decision.</li>
-                    <li>Conducted experiments on UCI datasets, showing the effectiveness of the method.</li>
-                </ul>
-            </div>
-        </div>
-        <div class="project-item">
             <img src="/pics/WFRS.jpg" alt="Project 3">
             <div>
-                <h3>Weighted Fuzzy Rough Sets-based Tri-training and its Application to Medical Diagnosis</h3>
+                <h3>Weighted Fuzzy Rough Sets-based Tri-training and Its Application to Medical Diagnosis</h3>
                 <ul>
-                    <li>Proposed a bad-points technique for dataset denoising and a high-order strategy for
-                        comprehensive
-                        spatial information extraction.
+                    <li>Proposed a bad-points technique for dataset de-noising and a high-order strategy for
+                        comprehensive spatial information extraction.
+                    </li>
+                    <li>
+                        Three modal data ORI (original data), PCA (data after PCA), and DIS (data after
+                        discretization) are proposed to initialize tri-training base classifiers, augmenting their
+                        representation abilities.
                     </li>
                     <li>Designed a robust weighted fuzzy lower approximation classifier for supervised and
-                        semi-supervised
-                        problems.
+                        semi-supervised problems.
                     </li>
                 </ul>
             </div>
         </div>
     </div>
     <hr>
-    <a id="Publications"></a>
-    <h2 class="section-toggle">Publications</h2>
+    <a id="Papers"></a>
+    <h2 class="section-toggle">Papers</h2>
     <div class="section-content">
         <ol>
             <li>
-                <p><strong>J. Xing</strong>, C. Gao, J. Zhou, "Weighted fuzzy rough sets-based tri-training and its
-                    application to medical diagnosis", Applied Soft Computing, vol. 124, p. 109025, 2022, doi:
-                    10.1016/j.asoc.2022.109025.</p>
+                <strong>J. Xing</strong>, C. Gao, "A Unified Semi-supervised Learning Framework Based on Fuzzy Rough
+                Sets for Open-set Scenarios".
             </li>
             <li>
-                <p>C. Gao, J. Zhou, <strong>J. Xing</strong>, X. Yue, "Parameterized-maximum-distribution-entropy-based
-                    three-way approximate attribute reduction", International Journal of Approximate Reasoning, vol.
-                    151, p. 85-100, 2022, doi: 10.1016/j.ijar.2022.09.007.</p>
+                <strong>J. Xing</strong>, C. Gao, J. Zhou, "Weighted Fuzzy Rough Sets-based Tri-training and Its
+                Application to Medical Diagnosis", Applied Soft Computing (IF:8.7), vol. 124, p. 109025, 2022, doi:
+                10.1016/j.asoc.2022.109025.
             </li>
             <li>
-                <p>Z. Wang, C. Gao, <strong>J. Xing</strong>, "Three-way Approximate Reduction Based on Positive
-                    Region", Computer Science, vol. 49, p. 168-173, 2022, doi: 10.11896/jsjkx.210500067.</p>
+                C. Gao, J. Zhou, <strong>J. Xing</strong>, X. Yue, "Parameterized-maximum-distribution-entropy-based
+                Three-way Approximate Attribute Reduction", International Journal of Approximate Reasoning (IF:3.9),
+                vol.151, p. 85-100, 2022, doi: 10.1016/j.ijar.2022.09.007.
+            </li>
+            <li>
+                Z. Wang, C. Gao, <strong>J. Xing</strong>, "Three-way Approximate Reduction Based on Positive
+                Region", Computer Science, vol. 49, p. 168-173, 2022, doi: 10.11896/jsjkx.210500067.
             </li>
         </ol>
     </div>
@@ -123,27 +136,29 @@
     <a id="Projects"></a>
     <h2 class="section-toggle">Projects</h2>
     <div class="section-content">
-        <ul>
-            <li>"Open-world semi-supervised learning based on fuzzy rough sets", 2022.9-, Guangdong Province Science and
+        <em>Project Leader</em>
+        <ol>
+            <li>"Open-world Semi-supervised Learning Based on Fuzzy Rough Sets", 2022.9-2023.7, Guangdong Province
+                Science and
                 Technology Innovation Strategy Special Fund Project
             </li>
-            <li>"Multimodal weakly supervised learning methods and applications", 2021.6-2022.5, National College
+            <li>"Multimodal Weakly Supervised Learning Methods and Applications", 2021.6-2022.5, National College
                 Students Innovation and Entrepreneurship Training Project
             </li>
-            <li>"Research on handwriting recognition technology based on deep learning", 2020.11-2021.10, Shenzhen
+            <li>"Research on Handwriting Recognition Technology Based on Deep Learning", 2020.11-2021.10, Shenzhen
                 University Innovation and Development Experimental Project
             </li>
-        </ul>
+        </ol>
     </div>
     <hr>
     <a id="Competitions"></a>
     <h2 class="section-toggle">Competitions</h2>
     <div class="section-content">
         <ol>
-            <li>"A multi-granularity weighted property investment model based on ARIMA and LSTM", 2022.2, American
+            <li>"A Multi-granularity Weighted Property Investment Model Based on ARIMA and LSTM", 2022.2, American
                 Mathematical Contest in Modeling (Honorable Award)
             </li>
-            <li>"Defect detection robots based on Huawei AI platform", 2021.12, Huawei ICT Competition (National Third
+            <li>"Defect Detection Robots Based on Huawei AI Platform", 2021.12, Huawei ICT Competition (National Third
                 Award)
             </li>
         </ol>
@@ -157,29 +172,19 @@
             <li>Shenzhen University Honored Bachelor Degree</li>
         </ol>
     </div>
-    <hr>
-    <a id="TechnicalSkills"></a>
-    <h2 class="section-toggle">Technical Skills</h2>
-    <div class="section-content">
-        <ul>
-            <li><strong>Professional Skills:</strong> Intermediate use of Python and C++, data analysis and
-                visualization, basic image processing using OpenCV, network construction using PyTorch, knowledge of
-                common CNNs, RNNs, and GNNs.
-            </li>
-            <li><strong>Computational Skills:</strong> MATLAB, Linux, Web Crawler, Web Development</li>
-        </ul>
-    </div>
+
 </div>
 
 <div class="nav-buttons">
-    <a href="#SelfIntroduction">Top</a>
+    <a href="#body">Top</a>
     <a href="#Education">Education</a>
+    <a href="#TechnicalSkills">Technical Skills</a>
     <a href="#ResearchExperiences">Research Experiences</a>
-    <a href="#Publications">Publications</a>
+    <a href="#Papers">Papers</a>
     <a href="#Projects">Projects</a>
     <a href="#Competitions">Competitions</a>
     <a href="#Awards">Awards</a>
-    <a href="#TechnicalSkills">Technical Skills</a>
+
 </div>
 <script src="script.js"></script>
 </body>
