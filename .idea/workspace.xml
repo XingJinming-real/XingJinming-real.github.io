@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7441803-690a-4e1b-a17e-f47fc7eeda7d" name="Changes" comment="update information and correct typos" />
+    <list default="true" id="b7441803-690a-4e1b-a17e-f47fc7eeda7d" name="Changes" comment="update information and correct typos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +117,7 @@
       <workItem from="1695260250163" duration="20000" />
       <workItem from="1695260411634" duration="16000" />
       <workItem from="1695260450408" duration="1194000" />
-      <workItem from="1695266150179" duration="8619000" />
+      <workItem from="1695266150179" duration="9008000" />
     </task>
     <task id="LOCAL-00001" summary="update and correct typos">
       <option name="closed" value="true" />
@@ -140,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695274804586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update information and correct typos">
+      <option name="closed" value="true" />
+      <created>1695274874755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695274874755</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update information and correct typos">
+      <option name="closed" value="true" />
+      <created>1695274915277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695274915277</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
