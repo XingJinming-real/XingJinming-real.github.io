@@ -6,6 +6,167 @@
   <component name="ChangeListManager">
     <list default="true" id="b7441803-690a-4e1b-a17e-f47fc7eeda7d" name="Changes" comment="remove typos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/music.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/-One more time,One more chance-山崎まさよし.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/10 Hz Alpha Thunderstorm (Extended Version)_2.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/A Little Story.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Breath and Life.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Dance Monkey - Tones and I.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Down by the Sally Gardens.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Dreamcatcher.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/El Dorado (Dubstep Remix).m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Eternal Hope.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Faded.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Fire.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Free Loop.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Go Time.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Hotel California (Live on MTV, 1994).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Hotel California (Live)_Eagles.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/I Believe.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/I Will Show You.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/I got smoke.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/I'm Alive.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/LOVE Theme from TIGA &amp;lt;M-2&amp;gt;.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/La Copa de la Vida.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/MELANCHOLY_2.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/MELANCHOLY_3.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/May I (Unshaken).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Moonlit Stardust.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Moskau.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/My Heart Will Go On.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/My Soul.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/None Shall Live.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Numb_LINKIN PARK.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Panama_Matteo_.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Rags To Rings.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Rainy Blue (蓝色阴雨).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Rainy Dumplings.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Sadness and Sorrow.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/See The Fire In Your Eyes.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Star Sky - Instrumental.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Star Sky.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Stormkeeper.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/The truth that you leave.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Time (Official).m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Titanic-curry.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Venus Des Abribus_Patricia Kaas.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/Victory.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/With an Orchid.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/YMCA_2.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/baby-curry.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/epic music.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/travel light.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/unknown_1.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/unknown_2.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/unknown_3.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/—エンディング—世界の約束～人生のメリーゴーランド.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/あの日の川.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/いつも何度でも.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/一言难尽.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/七里香.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/为你我受冷风吹_林忆莲.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/为爱痴狂_刘若英.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/你到底有没有爱过我.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/修罗.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/全是爱.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/兰亭序.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/其实不想走.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/再回首.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/初恋情人.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/千千阙歌（纯音乐版萨克斯）.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/只想一生跟你走.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/可可托海的牧羊人.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/后来.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/后来.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/吻得太逼真.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/告白气球.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/周杰伦-发如雪.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/嚣张.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/处处吻.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/夜曲.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/大哥你好吗.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/天意.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/失恋阵线联盟.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/奔跑.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/好心分手.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/容易受伤的女人_王菲.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/小幸运.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/山丘.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/总有你鼓励_左麟右李.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/情非得已_庾澄庆.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/想你的夜关喆_.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/意外-薛之谦 MP3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/懂你_满文军.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/我的好兄弟.wma" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/挚爱.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/敢爱敢做.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/日不落.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/明天，你好.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/明日めざして &amp;lt;M-43,M-21,M-48&amp;gt;.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/春天里.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/晴天.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/暗香_沙宝亮.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/有一种爱叫做放手.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/有多少爱可以重来.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/有没有一首歌会让你想起我.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/朋友.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/森林狂想曲.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/水手.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/水星记.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/求佛.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/江南(粤语版).m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/沙漠骆驼.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/没那么简单.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/海伦 - 游京.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/游山恋.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/漫步人生路.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/潮湿的心.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/爱情买卖.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/爱情转移.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/爱的故事(上).m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/生来彷徨 - 汪峰,生来彷徨.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/男人哭吧哭吧不是罪.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/留什么给你.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/痴心绝对_李圣杰.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/相爱很难.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/秋天不回来.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/稻香.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/突然的自我.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/等你等到我心痛.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/红日 (粤语).m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/红豆 .m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/练习.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/美丽的神话_成龙.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/老人与海_.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/花海.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/花间梦事.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/萍聚.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/讲不出再见_谭咏麟.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/许镜清 - 风雨行路难.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/该死的温柔.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/谁明浪子心 .mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/谁能明白我.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/车继铃 - 最远的你是我最近的爱.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/轨迹.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/迟重瑞 - 看我跃马扬鞭.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/遠き呼び声の彼方へ -M-41,M-62A-.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/遥远的她.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/野狼disco.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/钢铁洪流进行曲.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/雨蝶_李翊君.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/青花瓷 - 周杰伦.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/风雨无阻.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/鬼迷心窍.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/鬼迷心窍_李宗盛.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/黄昏_周传雄.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/songs/총맞은것처럼.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/jmxing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pics/jmxing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/jmxing2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/services/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +220,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/XingJinming-real.github.io/music/songs",
+    "last_opened_file_path": "D:/XingJinming-real.github.io/pics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,17 +231,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XingJinming-real.github.io\pics" />
       <recent name="D:\XingJinming-real.github.io\music\songs" />
       <recent name="D:\XingJinming-real.github.io\services" />
-      <recent name="D:\XingJinming-real.github.io\pics" />
       <recent name="D:\XingJinming-real.github.io\pdfs" />
       <recent name="D:\XingJinming-real.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\XingJinming-real.github.io\pics" />
       <recent name="D:\XingJinming-real.github.io\music\songs" />
       <recent name="D:\XingJinming-real.github.io" />
       <recent name="D:\XingJinming-real.github.io\pdfs" />
-      <recent name="D:\XingJinming-real.github.io\pics" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -128,6 +289,7 @@
       <workItem from="1696363098688" duration="129000" />
       <workItem from="1697940948504" duration="608000" />
       <workItem from="1697951083064" duration="1178000" />
+      <workItem from="1709863034261" duration="451000" />
     </task>
     <task id="LOCAL-00001" summary="update and correct typos">
       <option name="closed" value="true" />
