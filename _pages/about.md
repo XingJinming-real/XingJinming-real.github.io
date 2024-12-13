@@ -28,7 +28,8 @@ Awards
 
 Services
 ---
-* Reviewer: WWW'25, TFSS, IJCSMA
+* Editorial Member: IJNLC, CACML'25, AMLDS'25
+* Reviewer: WWW'25, TFSS, IJCSMA, AAIML, IJCNN'25
   
-[CV](files/cv.pdf)
+[CV](files/resume.pdf)
 ---
