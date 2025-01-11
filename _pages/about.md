@@ -11,7 +11,7 @@ I am a second year PhD student in Computer Science Department of [North Carolina
 
 Education
 ---
-* 2023/08 - Now `|` North Carolina State University (NCSU)
+* 2023/08 - Present `|` North Carolina State University (NCSU)
 * 2019/09 - 2023/07 `|` Shenzhen University (SZU)
 
 Skills
@@ -28,8 +28,8 @@ Awards
 
 Services
 ---
-* Editorial Member: IJNLC, CACML'25, AMLDS'25, ICINT'25
-* Reviewer: WWW'25, TFSS, IJCSMA, AAIML, IJCNN'25, SoCo
+* Editorial Member: IJNLC, CACML’25, AMLDS’25, ICINT’25, WWW’25 (Short Paper Track), ISPR’25 IJNLC, CACML'25, AMLDS'25, ICINT'25
+* Reviewer: WWW’25(MainTrack), TFSS, IJCSMA, AAIML, IJCNN’25, Soft Computing, MLR, CEEIT’25, Knowledge-Based Systems, CVML’25
   
 [CV](files/resume.pdf)
 ---
