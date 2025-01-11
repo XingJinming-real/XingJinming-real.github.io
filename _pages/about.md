@@ -28,8 +28,8 @@ Awards
 
 Services
 ---
-* Editorial Member: IJNLC, CACML’25, AMLDS’25, ICINT’25, WWW’25 (Short Paper Track), ISPR’25 IJNLC, CACML'25, AMLDS'25, ICINT'25
-* Reviewer: WWW’25(MainTrack), TFSS, IJCSMA, AAIML, IJCNN’25, Soft Computing, MLR, CEEIT’25, Knowledge-Based Systems, CVML’25
-  
+* Editorial Member: [IJNLC](https://airccse.org/journal/ijnlc/editorialboard.html), [CACML'25](https://www.cacml.net/Program\%20Committee.html), [AMLDS'25](https://amlds.site/tpc.html), [ICINT'25](https://www.icint.org/committee.html), [WWW'25 (Short Paper Track)](https://www2025.thewebconf.org), [ISPR'25](https://csita2025.org/ispr/committee)
+* Reviewer: [WWW'25 (Main Track)](https://www2025.thewebconf.org/), [TFSS](https://sanad.iau.ir/journal/tfss/), [IJCSMA](https://www.ijcsma.com/), [AAIML](https://www.oajaiml.com/), [IJCNN'25](https://2025.ijcnn.org/), [Soft Computing](https://link.springer.com/journal/500), [MLR](http://www.mlrjournal.org/reviewers), [CEEIT'25](https://www.ceeit.net), [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems), [CVML'25](https://iccvml.com/)
+
 [CV](files/resume.pdf)
 ---
