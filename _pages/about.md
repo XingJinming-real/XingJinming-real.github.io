@@ -21,7 +21,7 @@ Skills
 * **Image processing**: OpenCV
 * **Others**: Python, C++, Matlab, Linux, Web Crawler, Flask, MySQL
 
-Foundations
+Grants
 ---
 * National College Students Innovation and Entrepreneurship Training Project, 2021, **20k RMB**
 * Guangdong Province Science and Technology Innovation Strategy Special Fund Project, 2022, **20k RMB**
