@@ -6,7 +6,7 @@ permalink: /publication/WFRS
 excerpt: 'In this paper, for semi-supervised learning, we propose a new framework WFRSTT, which incorporates the merits of Fuzzy Rough Sets, Tri-training, a novel noise-filtering technique `bad-points`, and the multi-view information. Experiment results demonstrate its effectiveness in Medical Diagnosis.'
 date: 2022-5-25
 venue: 'Applied Soft Computing'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1568494622003362'
+# paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1568494622003362'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
