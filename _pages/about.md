@@ -37,7 +37,8 @@ Services
 <!-- Awards
 ---
 * Shenzhen University Excellent Graduation Student
-* Shenzhen University Honored Bachelor Degree -->
+* Shenzhen University Honored Bachelor Degree 
+-->
 
 [CV](files/resume.pdf)
 ---
