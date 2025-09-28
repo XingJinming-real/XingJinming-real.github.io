@@ -23,8 +23,9 @@ Skills
 
 Grants
 ---
-* National College Students Innovation and Entrepreneurship Training Project, 2021, **20k RMB**
-* Guangdong Province Science and Technology Innovation Strategy Special Fund Project, 2022, **20k RMB**
+* North Carolina State University College of Engineering Travel Grant, 2025, **$1k**
+* National College Students Innovation and Entrepreneurship Training Project, 2021, **$2.8k**
+* Guangdong Province Science and Technology Innovation Strategy Special Fund Project, 2022, **$2.1k**
 
 
 Services
