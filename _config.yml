@@ -219,12 +219,14 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
   # others:
   #   output: true
   #   permalink: /:collection/:path/
