@@ -1,0 +1,229 @@
+%% The MIT License (MIT)
+%%
+%% Copyright (c) 2015 Daniil Belyakov
+%%
+%% Permission is hereby granted, free of charge, to any person obtaining a copy
+%% of this software and associated documentation files (the "Software"), to deal
+%% in the Software without restriction, including without limitation the rights
+%% to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%% copies of the Software, and to permit persons to whom the Software is
+%% furnished to do so, subject to the following conditions:
+%% 
+%% The above copyright notice and this permission notice shall be included in all 
+%% copies or substantial portions of the Software. 
+%% 
+%% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+%% SOFTWARE.
+
+% The font could be set to Windows-specific Calibri by using the 'calibri' option
+\documentclass[]{mcdowellcv}
+\usepackage{amsmath} 
+\usepackage{setspace}
+\usepackage[colorlinks=true, pdfborder={0 0 0},urlcolor=blue]{hyperref}
+
+\begin{document}
+\begin{center}
+    \thispagestyle{empty}
+    \Large \textbf{Jinming Xing \\}
+    \vspace{1mm}
+    \normalsize jmxing0000@gmail.com $\mid$ 201-927-1095 $\mid$  [\href{https://xingjinming-real.github.io/}{Website}] $\mid$ [\href{https://scholar.google.com/citations?user=gDGHaU8AAAAJ}{Google Scholar}]\\
+    % \hrulefill 
+\end{center}
+
+\begin{cvsection}{Education}
+    \begin{cvsubsection}{North Carolina State University}{}{Sep 2023 -- Present}
+        \begin{itemize}
+            \item PhD in Computer Science %(4.0/4.0), MS
+            \item \textbf{Research Interest:} Graph Neural Networks, Large Language Models
+        \end{itemize}
+    \end{cvsubsection}
+    \vspace*{-6pt}
+    \begin{cvsubsection}{Shenzhen University}{}{Sep 2019 -- Jun 2023}
+        \begin{itemize}
+            \item BS in Computer Science (Honored)
+            \item \textbf{Coursework:} Probabilities, Linear Algebra, Data Structures and Algorithms, Computer Networks, Internet of Things, Cloud Computing, Database, Machine Learning, Practical Deep Learning, Computer Vision
+        \end{itemize}
+    \end{cvsubsection}
+\end{cvsection}
+\vspace*{-12pt}
+\begin{cvsection}{Skills}
+    \begin{cvsubsection}{}{}{}
+        \begin{itemize}
+            \item Python, C/C++, PyTorch, Hadoop, Spark, MySQL, Git, Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn
+            \item CNNs, RNNs, GNNs, DRL, Transformers, LLM (LlamaIndex, Ollama, RAG, LoRA/PEFT, MCP, GRPO)
+        \end{itemize}
+    \end{cvsubsection}
+\end{cvsection}
+\vspace*{-12pt}
+\begin{cvsection}{Industry Experience}
+    \begin{cvsubsection}{Incoming MLE Intern}{Adobe}{May 2026 -- Aug 2026}
+        \begin{itemize}
+            \item Incoming Machine Learning Engineer Intern for Summer 2026.
+        \end{itemize}
+    \end{cvsubsection}
+\end{cvsection}
+\vspace*{-12pt}
+\begin{cvsection}{Selected Papers \& Research Experience}
+    \begin{cvsubsection}{Research Assistant}{North Carolina State University}{Oct 2023 -- Present}
+        \textbf{Jinming Xing}, Muhammad Shahzad, et al. "CO-EVOLVE: Bidirectional Co-Evolution of Graph Structure and Semantics for Heterophilous Learning."\newline
+        \textbf{[Motivation]}: Existing LLM-GNN integration relies on static, unidirectional pipelines, causing bidirectional error propagation, semantic-structural dissonance, and blind alignment that propagates noise.
+        \begin{itemize}
+            \item Introduce a Dual-View Co-Evolution mechanism where the GNN injects topological context to guide the LLM, while the LLM constructs a Dynamic Semantic Graph to rewire the GNN, halting mutual error propagation.
+            \item Propose a Node-Adaptive Gating Mechanism that learns per-node factors to dynamically fuse static and semantic graphs, resolving the missing link problem by reconstructing connections for isolated nodes.
+            \item Design a Hard-Structure Conflict-Aware Contrastive Loss based on Global Graph Diffusion (PPR), targeting false semantic friends by warping the semantic manifold to respect high-order topological boundaries.
+            \item Develop an Uncertainty-Gated Consistency strategy that enables meta-cognitive alignment, ensuring models only learn from the confident counter-view, and an Entropy-Aware Adaptive Fusion for robust inference.
+        \end{itemize}
+        \vspace{5pt}
+        \textbf{Jinming Xing}, Guoheng Sun, et al. "NetSight: Graph Attention Based Network Traffic Forecasting." (ICDCS'26 Under Review)\newline
+        \textbf{[Motivation]}: Hidden ST dependencies are ignored. Global-local ST can't be modeled simultaneously.
+        \begin{itemize}
+            \item A dynamic data-driven spatial-temporal graph was proposed to capture hidden spatial-temporal dependencies.
+            \item A decoder-only transformer was adopted while GAT servers as the graph convolution backbone.
+            \item Proposed NetSight, which copes with global-local spatial-temporal patterns simultaneously. A simple yet effective learnable pooling was designed, and to speed up the convergence, node normalization was introduced.
+            \item NetSight outperforms the average of baselines by \underline{36.37\%} (MAE), \underline{32.19\%} (RMSE), and \underline{23.99\%} (SMAPE).
+        \end{itemize}
+        \vspace{5pt}
+        \textbf{Jinming Xing}, Muhammad Shahzad. "A Reinforcement Learning Framework for Application-Specific TCP Congestion-Control." (44th IPCCC, 2025)\newline
+        \textbf{[Motivation]}: Diverse optimization goals are overlooked. Client computational load is high.
+        \begin{itemize}
+            \item Proposed ASC$_{RL}$, a DRL-based framework that can accommodate clients with various optimization goals.
+            \item Designed a client-server updating mechanism, which decouples the training and inference, reducing the client computational load by up to \underline{91\%}, making it suitable to be deployed on low-power devices.
+            \item Introduced a fast retraining mechanism for client goals changing, resulting in a \underline{50\%} reduced retraining time.
+        \end{itemize}
+
+
+        % \item \textbf{Jinming Xing}, Zhaomin Xiao, Yingyi Wu, et al. "Network Traffic Forecasting via Fuzzy Spatial-Temporal Fusion Graph Neural Networks." ISCMI'24, pp. 282-286. IEEE, 2024.
+        % \item \textbf{Jinming Xing}, Ruilin Xing, Qisen Cheng, et al. "Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling." ISMSI'25. ACM, 2025.
+        % \item \textbf{Jinming Xing}, Qisen Cheng, Dongwen Luo, et al. "Comparative Analysis of Pooling Mechanisms in LLMs: A Sentiment Analysis Perspective." ISMSI'25. ACM, 2025.
+        % \item \textbf{Jinming Xing}, Chang Xue, Dongwen Luo, et al. "FGATT: A Robust Framework for Wireless Data Imputation Using Fuzzy Graph Attention Networks and Transformer Encoders." ISMSI'25. ACM, 2025.
+        % \item \textbf{Jinming Xing}, Dongwen Luo, Qisen Cheng, et al. "Multi-view Fuzzy Graph Attention Networks for Enhanced Graph Learning." ISMSI'25. ACM, 2025.
+        % \item Qisen Cheng, \textbf{Jinming Xing}, Chang Xue, et al. "Unifying Prediction and Explanation in Time-Series Transformers via Shapley-based Pretraining." CSPA'25. IEEE, 2025.
+        % \item Can Gao, Jie Zhou, \textbf{Jinming Xing}, et al. "Parameterized maximum-entropy-based three-way approximate attribute reduction." International Journal of Approximate Reasoning 151 (2022): 85-100.
+    \end{cvsubsection}
+    \vspace*{-6pt}
+    \begin{cvsubsection}{Research Assistant}{Shenzhen University}{Jun 2021 -- Jul 2023}
+        \textbf{Jinming Xing}, Can Gao, et al. "Weighted fuzzy rough sets-based tri-training and its application to medical diagnosis." Applied Soft Computing [Q1, IF:7.28] (2022) \newline
+        \textbf{[Motivation]}: Noisy data impedes the learning. Tri-training suffers from the initialization problem.
+        \begin{itemize}
+            \item Proposed the `bad-point' technique for dataset de-noising and a high-order information extraction strategy.
+            \item Three modal data `ORI', `PCA', and `DIS' are proposed to initialize tri-training base classifiers.
+            \item Designed a robust weighted fuzzy lower approximation classifier for supervised and semi-supervised
+                  problems.
+            \item The proposed WFRS-Tri framework outperforms baselines under various noisy supervised and semi-supervised scenarios with a range of accuracy improvements from \underline{3\%} to \underline{15\%} on average.
+        \end{itemize}
+    \end{cvsubsection}
+
+    % \begin{cvsubsection}{Research Assistant (NCSU)}{}{Oct 2023 -- Now}
+    % \textbf{Global-Local Spatial-Temporal Aware Graph Attention Network for Network Traffic Forecasting}
+    % \begin{itemize}
+    %     \item A dynamic data-driven spatial-temporal graph was proposed to capture hidden spatial-temporal dependencies.
+    %     \item Proposed GLSTaGAT, which copes with global-local spatial-temporal patterns simultaneously. A simple yet effective learnable pooling was designed, and to speed up the convergence, node normalization was proposed.
+    %     \item An encoder-only transformer was adopted while GAT servers as the graph convolution backbone.
+    %     \item GLSTaGAT outperforms the average of baselines by \underline{36.37\%} (MAE), \underline{32.19\%} (RMSE), and \underline{23.99\%} (SMAPE).
+    %     \item \underline{Technologies}: Spatial-Temporal GNN, Dynamic Time Wrapping, Transformer, Attention Mechanism.
+    % \end{itemize}
+    % \vspace{5.75pt}
+    % \textbf{A Reinforcement Learning Framework for Application-Specific TCP Congestion-Control}
+    % \begin{itemize}
+    %     \item Proposed ASC$_{RL}$, a DRL-based framework that can accommodate clients with various optimization goals.
+    %     \item Designed a client-server updating mechanism, which decouples the training and inference, reducing the client computational load by up to \underline{91\%}, making it suitable to be deployed on low-power devices.
+    %     \item Introduced a fast retraining mechanism for client goals changing, resulting in a \underline{50\%} reduced retraining time.
+    %     \item \underline{Technologies}: PyTorch, DRL, TCP, Network Simulation (NS3), Network Topologies.
+    % \end{itemize}
+    % \end{cvsubsection}
+    % \begin{cvsubsection}{Research Assistant (SZU)}{}{Jun 2021 -- Jul 2023}
+    % \textbf{Open-World Semi-Supervised Learning Based on Fuzzy Rough Sets}
+    % \begin{itemize}
+    %     \item Proposed a novel sample center identifying method using one-vs-rest strategy and Fuzzy Rough Sets.
+    %     \item Introduced a one-stage learning strategy for adaptively and iteratively labeling data and classifying them.
+    %     \item Conducted extensive experiments on artificial and real datasets demonstrating the model's effectiveness.
+    %     \item \underline{Technologies}: Open-World Classification, Curriculum Learning, Group Finding.
+    % \end{itemize}
+    % \vspace{5.75pt}
+    % \textbf{Weighted Fuzzy Rough Sets-based Tri-Training and Its Application to Medical Diagnosis}
+    % \begin{itemize}
+    %     \item Proposed the `bad-point' technique for dataset de-noising and a high-order information extraction strategy.
+    %     \item Three modal data `ORI', `PCA', and `DIS' are proposed to initialize tri-training base classifiers.
+    %     \item Designed a robust weighted fuzzy lower approximation classifier for supervised and semi-supervised
+    %           problems.
+    %     \item \underline{Technologies}: Multi-Modal Learning, Semi-Supervised Learning, Noise Learning, Fuzzy Rough Sets.
+    % \end{itemize}
+    % \end{cvsubsection}
+\end{cvsection}
+% \vspace*{-12pt}
+% \begin{cvsection}{Invited Talks}
+%     \begin{cvsubsection}{}{}{}
+%         \begin{itemize}
+%             \item The Fundamental Models of Graph Neural Networks and Their Applications, Jharkhand Rai University, India, May 2025
+%         \end{itemize}
+%     \end{cvsubsection}
+% \end{cvsection}
+\vspace*{-12pt}
+\begin{cvsection}{Grants}
+    \begin{cvsubsection}{}{}{}
+        \begin{itemize}
+            \item North Carolina State University College of Engineering Travel Grant, 2025, \textbf{\$1k}
+            \item National College Students Innovation and Entrepreneurship Training Project, 2021, \textbf{\$2.8k}
+            \item Guangdong Province Science and Technology Innovation Strategy Special Fund Project, 2022, \textbf{\$2.1k}
+        \end{itemize}
+    \end{cvsubsection}
+\end{cvsection}
+\vspace*{-12pt}
+\begin{cvsection}{Services}
+    \begin{cvsubsection}{}{}{}
+        \textbf{Invited Seminars:} "Introduction to GNNs and Their Applications", Jharkhand Rai University, India, May 2025\\
+        \textbf{Teaching Assistant:} Computer Network, Data Structures and Algorithms, Senior Design\\
+        \textbf{Program Committee:} \href{https://www2025.thewebconf.org}{WWW'25 (Short Paper Track)}, \href{https://amlds.site/tpc.html}{AMLDS'25}\\
+        % \item Editorial Member: \href{https://www2025.thewebconf.org}{WWW'25 (Short Paper Track)}, \href{https://airccse.org/journal/ijnlc/editorialboard.html}{IJNLC}, \href{https://www.cacml.net/Program\%20Committee.html}{CACML'25}, \href{https://amlds.site/tpc.html}{AMLDS'25}, \href{https://www.icint.org/committee.html}{ICINT'25}, \href{https://csita2025.org/ispr/committee}{ISPR'25}
+        \textbf{Reviewer:} \href{https://aaai.org/conference/aaai/aaai-26/}{AAAI'26}, \href{https://www2025.thewebconf.org/}{WWW'25 (Main Track)}, \href{https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046}{TMM}, \href{https://dl.acm.org/journal/tkdd}{TKDD}, \href{https://2025.ijcnn.org/}{IJCNN'25/26}, \href{https://link.springer.com/journal/500}{Soft Computing}, \href{https://www.sciencedirect.com/journal/knowledge-based-systems}{Knowledge-Based Systems}, \href{https://www.sciencedirect.com/journal/expert-systems-with-applications}{Expert Systems With Applications}, \href{https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning}{IJAR}, \href{https://www.sciencedirect.com/journal/applied-soft-computing}{Applied Soft Computing}, \href{https://www.sciencedirect.com/journal/neurocomputing}{NeruoComputing}, \href{https://link.springer.com/journal/11227}{The Journal of Supercomputing}, \href{https://www.sciencedirect.com/journal/results-in-engineering}{Results in Engineering}, \href{https://www.sciencedirect.com/journal/advanced-engineering-informatics}{Advanced Engineering Informatics}, \href{https://www.sciencedirect.com/journal/computer-communications}{Computer Communications}\\
+        % \item Reviewer: \href{https://www2025.thewebconf.org/}{WWW'25 (Main Track)}, \href{https://dl.acm.org/journal/tkdd}{TKDD}, \href{https://2025.ijcnn.org/}{IJCNN'25}, \href{https://link.springer.com/journal/500}{Soft Computing}, \href{https://www.sciencedirect.com/journal/knowledge-based-systems}{Knowledge-Based Systems}, \href{https://www.sciencedirect.com/journal/expert-systems-with-applications}{Expert Systems With Applications}, \href{https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning}{IJAR}, \href{https://www.sciencedirect.com/journal/applied-soft-computing}{Applied Soft Computing}, \href{https://www.sciencedirect.com/journal/neurocomputing}{NeruoComputing}, \href{https://link.springer.com/journal/11227}{The Journal of Supercomputing}, \href{https://sanad.iau.ir/journal/tfss/}{TFSS}, \href{https://www.ijcsma.com/}{IJCSMA}, \href{https://www.oajaiml.com/}{AAIML}, \href{http://www.mlrjournal.org/reviewers}{MLR}, \href{www.ceeit.net}{CEEIT'25}, \href{https://iccvml.com/}{CVML'25}
+    \end{cvsubsection}
+\end{cvsection}
+\vspace*{-18pt}
+\begin{cvsection}{Full List of Peer-Reviewed Publications}
+    \begin{cvsubsection}{}{}{}
+        \begin{itemize}
+            \item Chang Xue, Youwei Lu, Chen Yang, \textbf{Jinming Xing}. "RecMind: LLM-Enhanced Graph Neural Networks for Personalized Consumer Recommendations." ICCE'26. IEEE, 2026. [EI indexed]
+            \item Guoheng Sun, Ziyao Wang, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, \textbf{Jinming Xing}, Ang Li. "Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services." [Under Review, ICML'26]
+            \item \textbf{Jinming Xing}, Guoheng Sun, Hui Sun, et al. "NetSight: Graph Attention Based Traffic Forecasting in Computer Networks." [Under Review, ICDCS'26]
+            \item \textbf{Jinming Xing}, Muhammad Shahzad. "A Reinforcement Learning Framework for Application-Specific TCP Congestion-Control." IPCCC'25, IEEE, 2025.
+            \item Qisen Cheng, \textbf{Jinming Xing}, Chang Xue, et al. "Unifying Prediction and Explanation in Time-Series Transformers via Shapley-based Pretraining." CSPA'25. IEEE, 2025. [EI indexed]
+            \item \textbf{Jinming Xing}, Dongwen Luo, Qisen Cheng, et al. "Multi-view Fuzzy Graph Attention Networks for Enhanced Graph Learning." IWPR'25. 2025. [EI indexed]
+            \item \textbf{Jinming Xing}, Chang Xue, Dongwen Luo, et al. "FGATT: A Robust Framework for Wireless Data Imputation Using Fuzzy Graph Attention Networks and Transformer Encoders." ECCS'25. IEEE, 2025. [EI indexed]
+            \item \textbf{Jinming Xing}, Zhaomin Xiao, Yingyi Wu, et al. "Network Traffic Forecasting via Fuzzy Spatial-Temporal Fusion Graph Neural Networks." ISCMI'24, pp. 282-286. IEEE, 2024. [EI indexed]
+            \item \textbf{Jinming Xing}, Qisen Cheng, Dongwen Luo, et al. "Comparative Analysis of Pooling Mechanisms in LLMs: A Sentiment Analysis Perspective." ISMSI'25. ACM, 2025. [EI indexed]
+            \item \textbf{Jinming Xing}, Ruilin Xing, Qisen Cheng, et al. "Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling." ICMSSP'25. Springer Nature, 2025. [EI indexed]
+            \item Can Gao, Jie Zhou, \textbf{Jinming Xing}, et al. "Parameterized maximum-entropy-based three-way approximate attribute reduction." International Journal of Approximate Reasoning 151 (2022): 85-100. [Q2, IF: 3.0]
+            \item \textbf{Jinming Xing}, Can Gao, et al. "Weighted fuzzy rough sets-based tri-training and its application to medical diagnosis." Applied Soft Computing 128 (2022): 109467. [Q1, IF:6.6]
+        \end{itemize}
+    \end{cvsubsection}
+\end{cvsection}
+
+% \begin{cvsection}{Projects}
+%     \begin{cvsubsection}{}{}{}
+%         \textbf{Multi-user Chat Room with Chatbot} (\href{http://app.yushen.space/chatbot}{http://app.yushen.space/chatbot})
+%         \begin{itemize}
+%             \item Designed and implemented a multi-user chat room with AES encryption and Anonymity support.
+%             \item Deployed a chatbot, which provides customized prompts and better memory retrieval with fewer tokens.
+%             \item Collected and summarized information from the internet lively, enhancing the chatbot with live information.
+%             \item \underline{Tools}: Retrieval-Augmented Generation, Prompt Engineering, Flask, TCP/UDP, AES, MySQL, Selenium.
+%         \end{itemize}
+%         \vspace{5.75pt}
+%         \textbf{A Multi-granularity Weighted Property Investment Model Based on ARIMA and LSTM}
+%         \begin{itemize}
+%             \item Implemented a web crawler using Requests, BeautifulSoup, and Pandas to download and preprocess data.
+%             \item Designed a weighted model combining ARIMA and LSTM using linear programming for stock selection.
+%             \item Leveraged various granularity (month, day, hour) data, increasing 8\% accuracy, yielding 200\% stock revenue.
+%             \item \underline{Tools}: PyTorch, Scikit-learn, Regression, Regularization, Linear Programming, Web Crawler, JSON, Matlab.
+%         \end{itemize}
+%     \end{cvsubsection}
+% \end{cvsection}
+
+
+
+\end{document}
