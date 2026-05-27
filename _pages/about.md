@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the Computer Science Department at [North Carolina State University](https://www.ncsu.edu). Prior to that, I received my bachelor's degree (Honored) from the Computer Science Department at [Shenzhen University](https://www.szu.edu.cn/). My research interests lie in Graph Neural Networks and Large Language Models.
+I am a PhD student in the Computer Science Department at [North Carolina State University](https://www.ncsu.edu). Alongside my academic journey, I worked as a Machine Learning Engineer Intern at [Adobe](https://www.adobe.com). Prior to that, I received my bachelor's degree (Honored) from the Computer Science Department at [Shenzhen University](https://www.szu.edu.cn/). My research interests focus on Large Language Models, AI Agents, and Graph Neural Networks.
 
 Education
 ---
@@ -16,12 +16,12 @@ Education
 
 Industry Experience
 ---
-* **Incoming Machine Learning Engineer Intern** (May 2026 - Aug 2026) `|` Adobe
+* **Machine Learning Engineer Intern** (May 2026 - Aug 2026) `|` Adobe
 
 Skills
 ---
 * **Programming & Tools**: Python, C/C++, PyTorch, Hadoop, Spark, MySQL, Git, Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn
-* **Deep Learning & Machine Learning**: CNNs, RNNs, GNNs, DRL, Transformers, LLM (LlamaIndex, Ollama, RAG, LoRA/PEFT, MCP, GRPO)
+* **Deep Learning & Machine Learning**: Agent, LLM (LlamaIndex, Ollama, RAG, LoRA/PEFT, MCP, GRPO), Transformers, CNNs, RNNs, GNNs
 
 Grants
 ---
