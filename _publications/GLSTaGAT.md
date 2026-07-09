@@ -1,11 +1,11 @@
 ---
-title: "NetSight: Graph Attention Based Network Traffic Forecasting"
+title: "NetSight: Joint Spatio-Temporal Dependency Modeling for Network Traffic Prediction"
 collection: publications
 category: conferences
 permalink: /publication/GLSTaGAT
 excerpt: 'The paper introduces NetSight, a model that captures global-local spatial-temporal dependencies through a data-driven fusion graph, node normalization, and multi-head attention, significantly improving network traffic forecasting accuracy.'
 date: 2025-08-20
-venue: 'ICDCS 2026, Under Review'
+venue: "Under ReviewCIKM 2026"
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
