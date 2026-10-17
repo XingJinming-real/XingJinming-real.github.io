@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Computer Science Department at [North Carolina State University](https://www.ncsu.edu). Alongside my academic journey, I worked as a Machine Learning Engineer Intern at [Adobe](https://www.adobe.com). Prior to that, I received my bachelor's degree (Honored) from the Computer Science Department at [Shenzhen University](https://www.szu.edu.cn/). My research interests focus on Large Language Models, AI Agents, and Graph Neural Networks.
+I am a PhD student in the Computer Science Department at [North Carolina State University](https://www.ncsu.edu). Alongside my academic journey, I worked as a Machine Learning Engineer Intern at [Adobe](https://www.adobe.com). Prior to that, I received my bachelor's degree (Honored) from the Computer Science Department at [Shenzhen University](https://www.szu.edu.cn/). My research interests focus on LLM Agents, Agentic Systems, and LLM-Guided Graph Reasoning.
 
 Education
 ---
@@ -20,8 +20,10 @@ Industry Experience
 
 Skills
 ---
-* **Programming & Tools**: Python, C/C++, PyTorch, Hadoop, Spark, MySQL, Git, Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn
-* **Deep Learning & Machine Learning**: Agent, LLM (LlamaIndex, Ollama, RAG, LoRA/PEFT, MCP, GRPO), Transformers, CNNs, RNNs, GNNs
+* **LLM Agents & Agentic Systems:** MCP (server/client implementation, tool-schema design, prompts), tool calling, multi-agent orchestration (OpenAI/Claude Agents SDK, LlamaIndex Workflows), ReAct / plan-and-execute / reflection & self-critique loops, supervisor-subagent delegation, context engineering & long-horizon memory, human-in-the-loop checkpointing, agentic RAG, verifier-gated and self-critiquing generation
+* **LLM Post-Training & Inference:** GRPO, PPO, DPO, RLHF/RLAIF, RLVR & verifiable-reward design, knowledge distillation, LoRA/QLoRA/PEFT, Ollama, prefix/KV-cache reuse, speculative decoding, hybrid retrieval + reranking, chunking & embedding strategy
+* **Core Engineering & DL:** Python, C/C++, PyTorch, HuggingFace Transformers, Docker, Git, Databricks, Hadoop, Spark, MySQL, Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn; Transformers, GNNs, CNNs, RNNs, Deep RL, Causal Inference, Semi-Supervised & Noisy-Label Learning, Spatio-Temporal Reasoning
+        
 
 Grants
 ---
